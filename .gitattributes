@@ -1,0 +1,8 @@
+# Keep Windows batch files exactly as-is (CRLF, no auto line-ending conversion)
+*.bat -text
+
+# PowerShell scripts: keep CRLF for Windows
+*.ps1 text eol=crlf working-tree-encoding=UTF-8
+
+# Docs
+*.md text eol=lf
