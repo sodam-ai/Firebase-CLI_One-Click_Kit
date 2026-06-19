@@ -1,0 +1,30 @@
+Firebase CLI One-Click Kit
+Copyright 2026 SoDam AI Studio
+
+This product is licensed under the Apache License, Version 2.0.
+See the LICENSE file for the full license text.
+
+------------------------------------------------------------------------
+Third-party tools this kit helps you install / use
+------------------------------------------------------------------------
+
+Firebase CLI (firebase-tools)
+  Copyright Google LLC
+  Licensed under the MIT License
+  https://github.com/firebase/firebase-tools
+
+Node.js
+  A trademark of the OpenJS Foundation
+  https://nodejs.org/
+
+------------------------------------------------------------------------
+Notes
+------------------------------------------------------------------------
+
+This kit is an independent helper. It is NOT affiliated with, endorsed by,
+or sponsored by Google, Firebase, or the OpenJS Foundation.
+
+"Firebase" and "Google" are trademarks of Google LLC.
+
+This kit installs Google's firebase-tools from the public npm registry.
+Your use of Firebase is subject to Google's terms and pricing.
